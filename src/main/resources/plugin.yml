@@ -1,0 +1,4 @@
+name: GlyphPlugin
+version: '${version}'
+main: me.dthb.glyph.GlyphPlugin
+api-version: 1.18
